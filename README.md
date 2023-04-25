@@ -1,3 +1,9 @@
+#This fork
+I've forked this repo to work on ASL related coding for an accessibility based app.
+
+Links I'm exploring:
+https://devpost.com/software/search?query=asl 
+
 # SignGPT
 INTRODUCTION
 
